@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="net.enilink.komma.slf4j.logback" type="repository">
+    <properties maven-id="net.enilink.komma:org.slf4j.logback:1.7.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/enilink/komma/org.slf4j.logback/1.7.4/org.slf4j.logback-1.7.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
